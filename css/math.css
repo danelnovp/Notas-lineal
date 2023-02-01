@@ -1,0 +1,63 @@
+:root {
+    counter-reset: ejemplo;
+    
+}
+
+/* 
+=====================
+    Ejemplo
+=====================
+*/
+
+ejemplo p:first-child::before{
+    counter-increment: ejemplo;
+    content: 'Ejemplo ' counter(ejemplo);
+    color: var(--fg);
+    font-weight: bold;
+    /* font-size: 18px; */
+    padding-right: 10px;
+    color: var(--primary);
+}
+ejemplo.green p:first-child::before {
+    color: var(--pgreen);
+}
+ejemplo.blue p:first-child::before {
+    color: var(--pblue);
+}
+ejemplo.yellow p:first-child::before {
+    color: var(--pyellow);
+}
+
+/* 
+===================
+    Demostración
+===================
+*/
+
+demostracion p:first-child::before{
+    content: 'Demostración';
+    color: var(--fg);
+    font-weight: bold;
+    /* font-size: 18px; */
+    padding-right: 10px;
+    color: var(--primary);
+}
+demostracion.green p:first-child::before {
+    color: var(--pgreen);
+}
+demostracion.blue p:first-child::before {
+    color: var(--pblue);
+}
+demostracion.yellow p:first-child::before {
+    color: var(--pyellow);
+}
+
+demostracion *:last-child {
+    margin-bottom: 0px;
+}
+
+demostracion::after {
+    content: '☐';
+    position: relative;
+    padding-left: 90%;
+}

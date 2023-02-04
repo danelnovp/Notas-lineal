@@ -4,7 +4,7 @@
 
 - [Espacios Vectoriales](./EspaciosVectoriales/definición.md)
   - [Sub espacios](./EspaciosVectoriales/sub_espacios.md)
-  - [Combinaciones lineales]()
+  - [Combinaciones lineales](./EspaciosVectoriales/combinaciones_lineales.md)
     - [Independencia Lineal]()
   - [Bases y dimensiones]()
   - [Kernel e imagen]()

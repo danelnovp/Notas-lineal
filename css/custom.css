@@ -96,7 +96,7 @@ ol li::marker {
 mbox {
     display: block;
     padding: 12px;
-    margin: 2em 2.6em;
+    margin: 2em 0;
     border-radius: 3px;
     box-shadow: 0px 0px 0px 3px var(--primary);
 }

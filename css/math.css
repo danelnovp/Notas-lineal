@@ -1,6 +1,5 @@
 :root {
     counter-reset: ejemplo;
-    
 }
 
 /* 
@@ -8,6 +7,10 @@
     Ejemplo
 =====================
 */
+h1, h2 {
+    counter-reset: ejemplo;
+}
+
 
 ejemplo p:first-child::before{
     counter-increment: ejemplo;

@@ -8,6 +8,7 @@
   - [Combinaciones lineales](./EspaciosVectoriales/combinaciones_lineales.md)
     - [Independencia Lineal](./EspaciosVectoriales/independencia_lineal.md)
   - [Bases y dimensiones](./EspaciosVectoriales/bases_y_dimensiones.md)
+    - [Dimensiones](./EspaciosVectoriales/dimensiones.md)
   - [Kernel e imagen]()
 
 - [Transformaciones Lineales]()

@@ -9,7 +9,7 @@
     - [Independencia Lineal](./EspaciosVectoriales/independencia_lineal.md)
   - [Bases y dimensiones](./EspaciosVectoriales/bases_y_dimensiones.md)
     - [Dimensiones](./EspaciosVectoriales/dimensiones.md)
-  - [Kernel e imagen]()
+  - [Kernel e imagen](./EspaciosVectoriales/kerne_e_imagen.md)
 
 - [Transformaciones Lineales]()
   - [Definición]()

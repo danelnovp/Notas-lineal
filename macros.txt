@@ -5,4 +5,4 @@
 \combinacion:{\dcombinacion{\alpha}{v}}
 \generado:{\left<#1\right>}
 \escalares:{\dvectores{\alpha}}
-\im:{\mathrm{Im}}
+\im:{\mathrm{Im}\,}

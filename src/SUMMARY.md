@@ -11,10 +11,9 @@
     - [Dimensiones](./EspaciosVectoriales/dimensiones.md)
   - [Kernel e imagen](./EspaciosVectoriales/kerne_e_imagen.md)
 
-- [Transformaciones Lineales]()
-  - [Definición]()
-  - [Propiedades]()
-  - [Isomorfismos]()
+- [Transformaciones Lineales](./Transformaciones/transformaciones.md)
+  - [Propiedades](./Transformaciones/propiedades.md)
+  - [Isomorfismos](./Transformaciones/isomorfismos.md)
     - [Matriz asociada]()
     - [Cambio de base]()
 

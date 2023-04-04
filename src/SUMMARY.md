@@ -14,7 +14,7 @@
 - [Transformaciones Lineales](./Transformaciones/transformaciones.md)
   - [Propiedades](./Transformaciones/propiedades.md)
   - [Isomorfismos](./Transformaciones/isomorfismos.md)
-    - [Matriz asociada]()
+    - [Matriz asociada](./Transformaciones/matriz_asociada.md)
     - [Cambio de base]()
 
 # Vectores y Valores Propios
